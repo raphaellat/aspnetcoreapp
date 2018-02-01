@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore:x22
+FROM -t microsoft/aspnetcore:latest
 WORKDIR /aspnetcoreapp
 COPY ./publish .
 ENTRYPOINT ["dotnet", "aspnetcoreapp.dll"]
