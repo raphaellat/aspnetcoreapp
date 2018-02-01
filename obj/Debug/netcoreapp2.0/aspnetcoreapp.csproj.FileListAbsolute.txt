@@ -1,0 +1,10 @@
+/home/raphael/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+/home/raphael/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.json
+/home/raphael/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.dev.json
+/home/raphael/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/home/raphael/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/home/raphael/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/home/raphael/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfoInputs.cache
+/home/raphael/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfo.cs
+/home/raphael/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/home/raphael/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb
