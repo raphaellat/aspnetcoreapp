@@ -1,4 +1,4 @@
 FROM microsoft/aspnetcore:latest
 WORKDIR /app
-COPY /publish .
+COPY ./publish .
 ENTRYPOINT ["dotnet", "aspnetcoreapp.dll"]
