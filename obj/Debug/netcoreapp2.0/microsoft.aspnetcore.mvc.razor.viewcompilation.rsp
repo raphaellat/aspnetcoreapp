@@ -1,0 +1,12 @@
+/home/raphael/aspnetcoreapp
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=aspnetcoreapp
+--content-root=/home/raphael/aspnetcoreapp
+--file=/home/raphael/aspnetcoreapp/Pages/About.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/Contact.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/Error.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/Index.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/_Layout.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/_ValidationScriptsPartial.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/_ViewImports.cshtml
+--file=/home/raphael/aspnetcoreapp/Pages/_ViewStart.cshtml
